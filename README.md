@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Prashanth akkala
 - 🌱 I’m currently learning ...
+-     I'm looking for a job data science role
 - 📫 How to reach me ...
      https://discord.com/channels/@me
      https://www.linkedin.com/in/akkala-prashanth-411504220/
